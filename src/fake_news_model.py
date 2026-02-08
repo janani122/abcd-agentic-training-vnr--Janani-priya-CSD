@@ -120,6 +120,6 @@ predictions = pd.DataFrame({
     "Predicted": y_pred
 })
 
-predictions.to_csv("predictions.csv", index=False)
+predictions_df.to_csv("outputs/predictions.csv", index=False)
 print("\nPredictions saved to predictions.csv")
 print("Done!")
