@@ -1,3 +1,3 @@
-UseCase of FullStack- Online Course reservation System
+UseCase of FullStack- blog app
 UseCase of Machine Learning - fake news detection
 
