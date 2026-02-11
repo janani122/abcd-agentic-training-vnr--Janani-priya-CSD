@@ -1,3 +1,2 @@
-UseCase of FullStack- blog app
-UseCase of Machine Learning - fake news detection
-
+use case of ml-fake news detection
+use case of fullstack-blog app
